@@ -1,3 +1,5 @@
-var playlists = {
+var playlist = {
   "Troye": "Youth"
 }
+
+
